@@ -1,0 +1,19 @@
+*{font-family:verdana;
+  text-align:center;}
+
+h1{color:white;
+  font-weight:normal;
+  font-size:50px;}
+
+h2{font-weight:300;
+   font-size:42px;
+   color:white;}
+
+h4{color:aquamarine;
+   font-size:16px;}
+
+h3{font-size:21px;
+   color:gray;}
+
+h5{color:gray;
+   text-align:right;}
